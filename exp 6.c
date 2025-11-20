@@ -3,7 +3,7 @@ NAME:ALI AZMATULLAH KHAN
 UIN:251M011
 CLASS:F.E MECHANICAL
 DIV:F
-*_/
+*/
 #include <stdio.h>
 
 int isPrime(int num) {
